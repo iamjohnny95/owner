@@ -91,12 +91,13 @@ Các điểm trên là điểm khác biệt chính mà bạn nên cân nhắc gi
 |Dễ học cho người mới dùng, và đã dùng qua Ubuntu desktop trong quá khứ| Khó học cho người mới, và không có desktop phổ biên|
 |Sử dụng **apt-get** package manager để cài đặt .deb packages|Dùng lệnh lệnh **yum** package manager để cài .rpm packages|
 
-
+## Nguồn gốc của Unix
+- Nhắc đến Linux thì trước tiên, ta phải quay ngược thời gian để tìm hiểu về một cái tên khác, đó là **Unix**.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MTI3MjI3MSwxODU2ODcxMjgzLDk2Mj
-cyNDk2NywtMjA4ODc0NjYxMiwxNTg4OTMzMDYsLTEzODU3ODIx
-NTQsLTExOTIyNDU3NDcsLTI4NTg5MTA1NSw4ODk0NDYxMTMsLT
-YxNzg0NzA4Miw0ODgzMTI2NzcsMTk4NzU3MjA1NSwyOTkxMDI4
-MTMsLTEzNTc0NTc1OTMsLTE0MDA0NzE1N119
+eyJoaXN0b3J5IjpbNDQxNjkzMDUyLDE4NTY4NzEyODMsOTYyNz
+I0OTY3LC0yMDg4NzQ2NjEyLDE1ODg5MzMwNiwtMTM4NTc4MjE1
+NCwtMTE5MjI0NTc0NywtMjg1ODkxMDU1LDg4OTQ0NjExMywtNj
+E3ODQ3MDgyLDQ4ODMxMjY3NywxOTg3NTcyMDU1LDI5OTEwMjgx
+MywtMTM1NzQ1NzU5MywtMTQwMDQ3MTU3XX0=
 -->
