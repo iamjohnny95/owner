@@ -291,17 +291,18 @@ Bạn cũng có thể dùng  **find <thư mục> -iname <tên file>** để tìm
 - 6./home: chứa các tập tin, thư mục người dùng trên hệ thống 
 - 7./lib: chứa các thư viện cho các chương trình trong /bin và /sbin
 - 8./media: là các điểm gắn kết system với các thiết bị bên ngoài 
-- 9./mnt: điểm  gắn
+- 9./mnt: điểm  gắn kết cho phép  gắn trực tiếp filesystem
+- 10./opt: chứa các gói phần mềm từ
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjYxODM3OTAsLTE4ODA3NzQzMywxND
-k5MTcxNDQ4LDE5MzAxNjgwMTAsLTMyMTU2MzM0OCwxNzM0NDA0
-NDI4LDE1NjcwNTYyMjAsLTEyMjM1MjkyMDMsLTYxNDE2NTM2Mi
-wtMTU1NzIyMzg5NiwxMDk3OTk3ODg1LDQ0MTY5MzA1MiwxODU2
-ODcxMjgzLDk2MjcyNDk2NywtMjA4ODc0NjYxMiwxNTg4OTMzMD
-YsLTEzODU3ODIxNTQsLTExOTIyNDU3NDcsLTI4NTg5MTA1NSw4
-ODk0NDYxMTNdfQ==
+eyJoaXN0b3J5IjpbLTc2MDMxMTgwNCwtMTg4MDc3NDMzLDE0OT
+kxNzE0NDgsMTkzMDE2ODAxMCwtMzIxNTYzMzQ4LDE3MzQ0MDQ0
+MjgsMTU2NzA1NjIyMCwtMTIyMzUyOTIwMywtNjE0MTY1MzYyLC
+0xNTU3MjIzODk2LDEwOTc5OTc4ODUsNDQxNjkzMDUyLDE4NTY4
+NzEyODMsOTYyNzI0OTY3LC0yMDg4NzQ2NjEyLDE1ODg5MzMwNi
+wtMTM4NTc4MjE1NCwtMTE5MjI0NTc0NywtMjg1ODkxMDU1LDg4
+OTQ0NjExM119
 -->
