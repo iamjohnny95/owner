@@ -282,17 +282,17 @@ Bạn cũng có thể dùng  **find <thư mục> -iname <tên file>** để tìm
 **unzip <file-nén.zip>** giải nén một file nén (.zip). Sử dụng  **unzip -l <file-nén.zip>** để xem nội dung file zip mà không cần giải nén.
 
 ## Cấu trúc phân lớp 
-- Trên nhiều  hệ điều hành, 
+- Trên nhiều  hệ điều hành, bao gồm  cả linux , file system thường có dạng cây. Linux  filesystem sẽ thường được bắt đầu từ thư mục root. Tất cả các thư mục khác là con của thư mục này. Các định dạng file system mà linux sp là: 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjQyMDg0NTEsLTE4ODA3NzQzMywxND
-k5MTcxNDQ4LDE5MzAxNjgwMTAsLTMyMTU2MzM0OCwxNzM0NDA0
-NDI4LDE1NjcwNTYyMjAsLTEyMjM1MjkyMDMsLTYxNDE2NTM2Mi
-wtMTU1NzIyMzg5NiwxMDk3OTk3ODg1LDQ0MTY5MzA1MiwxODU2
-ODcxMjgzLDk2MjcyNDk2NywtMjA4ODc0NjYxMiwxNTg4OTMzMD
-YsLTEzODU3ODIxNTQsLTExOTIyNDU3NDcsLTI4NTg5MTA1NSw4
-ODk0NDYxMTNdfQ==
+eyJoaXN0b3J5IjpbLTIyMzUzNTY2LC0xODgwNzc0MzMsMTQ5OT
+E3MTQ0OCwxOTMwMTY4MDEwLC0zMjE1NjMzNDgsMTczNDQwNDQy
+OCwxNTY3MDU2MjIwLC0xMjIzNTI5MjAzLC02MTQxNjUzNjIsLT
+E1NTcyMjM4OTYsMTA5Nzk5Nzg4NSw0NDE2OTMwNTIsMTg1Njg3
+MTI4Myw5NjI3MjQ5NjcsLTIwODg3NDY2MTIsMTU4ODkzMzA2LC
+0xMzg1NzgyMTU0LC0xMTkyMjQ1NzQ3LC0yODU4OTEwNTUsODg5
+NDQ2MTEzXX0=
 -->
