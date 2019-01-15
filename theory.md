@@ -1,7 +1,8 @@
 #lịch sử hình thành linux 
- - linux là một trong những nền tảng hệ điều hành mã nguồn mở và miễn phí đầu tiên được ra đời. Linux được viết bởi 
+ -  Linux được ra đời từ dự án cá nhân của một sinh viên vào năm 1991. Linux là một trong những nền tảng hệ điều hành mã nguồn mở và miễn phí đầu tiên được ra đời.
+ - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MTYyNjk5Myw0ODgzMTI2NzcsMTk4Nz
-U3MjA1NSwyOTkxMDI4MTMsLTEzNTc0NTc1OTMsLTE0MDA0NzE1
-N119
+eyJoaXN0b3J5IjpbLTk4NTIzOTIwLDQ4ODMxMjY3NywxOTg3NT
+cyMDU1LDI5OTEwMjgxMywtMTM1NzQ1NzU5MywtMTQwMDQ3MTU3
+XX0=
 -->
