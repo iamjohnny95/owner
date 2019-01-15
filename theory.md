@@ -180,12 +180,15 @@ Dự án Ubuntu tập trung vào việc cung cấp cho người dùng trải ngh
 Ubuntu là một bản phân phối hiện đại, không ngừng cải tiến nhưng vẫn giữ lại được những bản sắc riêng của mình. Ubuntu phát hành các bản cập nhật mỗi sáu tháng, đi cùng với đó là những bản cập nhật lớn, hỗ trợ lâu dài và ổn định hơn được đưa đến tay người dùng hai năm một lần. Ubuntu hiện đang nỗ lực để mở rộng ảnh hưởng của mình trên điện thoại thông minh và máy tính bảng.
 ## **Linux Mint**
 **![Linux Mint](https://st.quantrimang.com/photos/image/2018/10/05/so-sanh-nhung-ban-phan-phoi-linux-pho-bien-nhat-hien-nay2.jpg)
+Mint là một bản phân phối Linux được xây dựng trên Ubuntu. Nó sử dụng kho phần mềm của Ubuntu, vì vậy các phần mềm tương tự sẽ có sẵn và sử dụng được trên cả hai bản phân phối này. Ban đầu, Mint là một bản phân phối thay thế được yêu thích chủ yếu bởi vì nó bao gồm các codec phương tiện (media codec) và các phần mềm sở hữu độc quyền mà Ubuntu không cung cấp theo mặc định.
 
+Bản phân phối này hiện cũng có được bản sắc riêng của mình. Bạn sẽ không tìm thấy desktop Unity của Ubuntu nữa, thay vào đó, bạn sẽ có được một màn hình Cinnamon hoặc MATE truyền thống hơn. Mint có cách tiếp cận thoải mái hơn đối với việc phát hành các bản cập nhật phần mềm và sẽ không tự động cài đặt các bản cập nhật phần mềm quan trọng. Tuy nhiên đây cũng là một vấn đề gây tranh cãi, khiến một số nhà phát triển Ubuntu cho rằng nó không an toàn.
+## **Debian**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1Nzg2NjA3LC02MTQxNjUzNjIsLTE1NT
-cyMjM4OTYsMTA5Nzk5Nzg4NSw0NDE2OTMwNTIsMTg1Njg3MTI4
-Myw5NjI3MjQ5NjcsLTIwODg3NDY2MTIsMTU4ODkzMzA2LC0xMz
-g1NzgyMTU0LC0xMTkyMjQ1NzQ3LC0yODU4OTEwNTUsODg5NDQ2
-MTEzLC02MTc4NDcwODIsNDg4MzEyNjc3LDE5ODc1NzIwNTUsMj
-k5MTAyODEzLC0xMzU3NDU3NTkzLC0xNDAwNDcxNTddfQ==
+eyJoaXN0b3J5IjpbLTE5NDM2Nzk4MDMsLTYxNDE2NTM2MiwtMT
+U1NzIyMzg5NiwxMDk3OTk3ODg1LDQ0MTY5MzA1MiwxODU2ODcx
+MjgzLDk2MjcyNDk2NywtMjA4ODc0NjYxMiwxNTg4OTMzMDYsLT
+EzODU3ODIxNTQsLTExOTIyNDU3NDcsLTI4NTg5MTA1NSw4ODk0
+NDYxMTMsLTYxNzg0NzA4Miw0ODgzMTI2NzcsMTk4NzU3MjA1NS
+wyOTkxMDI4MTMsLTEzNTc0NTc1OTMsLTE0MDA0NzE1N119
 -->
