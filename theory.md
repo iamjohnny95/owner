@@ -81,10 +81,13 @@ Các điểm trên là điểm khác biệt chính mà bạn nên cân nhắc gi
 -   **Nếu bạn là một người dùng cho việc kinh doanh:**  CentOS là lựa chọn lý tưởng, nếu bạn chạy đang vận hành công việc kinh doanh, hoặc nếu bạn là quan trọng việc bảo mật. Ubuntu có lợi thế là cập nhật nhanh nhưng có nhiều trường hợp thực tế là bạn phải dùng bản cũ vì bản mới gặp lỗi do chưa được kiểm tra kỹ. Hơn nữa, CentOS cũng có hỗ trợ cPanel, một điều quan trọng mà Ubuntu thiếu.
 
 ** Bảng so sánh giữa Ubuntu và CentOS: **
+| Ubuntu | CentOS |
+| ------ | -------|
+|Dựa trên Debian
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Nzg2OTkzMDcsOTYyNzI0OTY3LC0yMD
-g4NzQ2NjEyLDE1ODg5MzMwNiwtMTM4NTc4MjE1NCwtMTE5MjI0
-NTc0NywtMjg1ODkxMDU1LDg4OTQ0NjExMywtNjE3ODQ3MDgyLD
-Q4ODMxMjY3NywxOTg3NTcyMDU1LDI5OTEwMjgxMywtMTM1NzQ1
-NzU5MywtMTQwMDQ3MTU3XX0=
+eyJoaXN0b3J5IjpbMTc5ODQ2ODgxMCw5NjI3MjQ5NjcsLTIwOD
+g3NDY2MTIsMTU4ODkzMzA2LC0xMzg1NzgyMTU0LC0xMTkyMjQ1
+NzQ3LC0yODU4OTEwNTUsODg5NDQ2MTEzLC02MTc4NDcwODIsND
+g4MzEyNjc3LDE5ODc1NzIwNTUsMjk5MTAyODEzLC0xMzU3NDU3
+NTkzLC0xNDAwNDcxNTddfQ==
 -->
