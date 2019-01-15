@@ -112,12 +112,13 @@ Phiên bản thương mại, close source nổi tiếng, thành công nhất, c�
 ### **GNU**
 
 Trong dòng chảy của sự phát triển của Unix, năm 1983 đã diễn ra một sự kiện quan trọng, là tiền đề cho những biến động lớn sau này.
-
+Tháng 9 năm 1983, **Richard Stallman** thông báo về sự ra đời của dự án **GNU** (GNU là viết tắt của từ **GNU’s not Unix**
+Mục tiêu của dự án GNU là tạo ra được một hệ điều hành miễn phí, **giống** Unix, nơi mà mọi người có quyền tự do copy, phát triển, chỉnh sửa và phân phối phần mềm, và việc tái phân phối là không bị giới hạn. (Nên nhớ, Unix và các phiên bản rẽ nhánh từ Unix ban đầu đều là close source và bị ràng buộc bản quyền)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMDQwNjYyLC0xNTU3MjIzODk2LDEwOT
-c5OTc4ODUsNDQxNjkzMDUyLDE4NTY4NzEyODMsOTYyNzI0OTY3
-LC0yMDg4NzQ2NjEyLDE1ODg5MzMwNiwtMTM4NTc4MjE1NCwtMT
-E5MjI0NTc0NywtMjg1ODkxMDU1LDg4OTQ0NjExMywtNjE3ODQ3
-MDgyLDQ4ODMxMjY3NywxOTg3NTcyMDU1LDI5OTEwMjgxMywtMT
-M1NzQ1NzU5MywtMTQwMDQ3MTU3XX0=
+eyJoaXN0b3J5IjpbLTcyNjgwNDQ4NCwtMTU1NzIyMzg5NiwxMD
+k3OTk3ODg1LDQ0MTY5MzA1MiwxODU2ODcxMjgzLDk2MjcyNDk2
+NywtMjA4ODc0NjYxMiwxNTg4OTMzMDYsLTEzODU3ODIxNTQsLT
+ExOTIyNDU3NDcsLTI4NTg5MTA1NSw4ODk0NDYxMTMsLTYxNzg0
+NzA4Miw0ODgzMTI2NzcsMTk4NzU3MjA1NSwyOTkxMDI4MTMsLT
+EzNTc0NTc1OTMsLTE0MDA0NzE1N119
 -->
