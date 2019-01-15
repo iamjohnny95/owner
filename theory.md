@@ -294,18 +294,20 @@ Bạn cũng có thể dùng  **find <thư mục> -iname <tên file>** để tìm
 - 9./mnt: điểm  gắn kết cho phép  gắn trực tiếp filesystem
 - 10./opt: chứa các gói phần mềm từ các package đã cài đặt 
 - 11./tmp: chứa các file tạm thời, của các package đang chạy, sẽ mất đi khi root
-## Đường dẫn home:
-- Trong những hệ thống UNIX, mỗi người dùng có đường dẫn sở hữu của họ. Thông thường được đặt /home. Đường dẫn /home trên hệ thống linux khác đường dẫn home của người dùng root. Đường dẫn /home thường được mount 1 filesystem riêng biệt trên partition nó sở hữu, hay thậm chí xuất đi rất xa trong mạng NFS.
+## Thư mục  home:
+- Trong những hệ thống UNIX, mỗi người dùng có đường dẫn sở hữu của họ. Thông thường được đặt /home.  Thư mục /home thường được mount 1 filesystem riêng biệt trên partition 
+- ## 
+- 
 - 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDMwNTg1NjMsNDc5NjA3MDQyLDEwNz
-I5ODg4OTQsLTE4ODA3NzQzMywxNDk5MTcxNDQ4LDE5MzAxNjgw
-MTAsLTMyMTU2MzM0OCwxNzM0NDA0NDI4LDE1NjcwNTYyMjAsLT
-EyMjM1MjkyMDMsLTYxNDE2NTM2MiwtMTU1NzIyMzg5NiwxMDk3
-OTk3ODg1LDQ0MTY5MzA1MiwxODU2ODcxMjgzLDk2MjcyNDk2Ny
-wtMjA4ODc0NjYxMiwxNTg4OTMzMDYsLTEzODU3ODIxNTQsLTEx
-OTIyNDU3NDddfQ==
+eyJoaXN0b3J5IjpbMTE2ODMxNjg2LDQ3OTYwNzA0MiwxMDcyOT
+g4ODk0LC0xODgwNzc0MzMsMTQ5OTE3MTQ0OCwxOTMwMTY4MDEw
+LC0zMjE1NjMzNDgsMTczNDQwNDQyOCwxNTY3MDU2MjIwLC0xMj
+IzNTI5MjAzLC02MTQxNjUzNjIsLTE1NTcyMjM4OTYsMTA5Nzk5
+Nzg4NSw0NDE2OTMwNTIsMTg1Njg3MTI4Myw5NjI3MjQ5NjcsLT
+IwODg3NDY2MTIsMTU4ODkzMzA2LC0xMzg1NzgyMTU0LC0xMTky
+MjQ1NzQ3XX0=
 -->
