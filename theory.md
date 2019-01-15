@@ -3,9 +3,9 @@
 |:------: |:-----:|
 |   cd    | di chuyển đến thư mục home|
 |   cd .. | di chuyển về thư mục cũ   |
-|   cd -   | 
+|   cd -  | 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NzU1NTE0NywtMTM1NzQ1NzU5MywtMT
-QwMDQ3MTU3XX0=
+eyJoaXN0b3J5IjpbMjk5MTAyODEzLC0xMzU3NDU3NTkzLC0xND
+AwNDcxNTddfQ==
 -->
