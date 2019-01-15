@@ -260,7 +260,7 @@ Bạn có thể sử dụng  **head -n N <tên file>** để chỉ định in  *
 
 **grep <chuỗi> <tên file>** tìm kiếm nội dung của file theo chuỗi cung cấp.  
 Bạn có thể dùng  **grep -i <chuỗi> <tên file>** để tìm kiếm không phân biệt hoa thường hoặc  **grep -r <chuỗi> <tên thư mục>** để tìm kiếm trong toàn thư mục
-# CC
+
 ## 14. find
 
 **find <thư mục> -name <tên file>** tìm kiếm file trong  **<thư mục>** theo  **<tên file>** .  
@@ -269,11 +269,11 @@ Bạn cũng có thể dùng  **find <thư mục> -iname <tên file>** để tìm
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgwNTc1NzA3LDE5MzAxNjgwMTAsLTMyMT
-U2MzM0OCwxNzM0NDA0NDI4LDE1NjcwNTYyMjAsLTEyMjM1Mjky
-MDMsLTYxNDE2NTM2MiwtMTU1NzIyMzg5NiwxMDk3OTk3ODg1LD
-Q0MTY5MzA1MiwxODU2ODcxMjgzLDk2MjcyNDk2NywtMjA4ODc0
-NjYxMiwxNTg4OTMzMDYsLTEzODU3ODIxNTQsLTExOTIyNDU3ND
-csLTI4NTg5MTA1NSw4ODk0NDYxMTMsLTYxNzg0NzA4Miw0ODgz
-MTI2NzddfQ==
+eyJoaXN0b3J5IjpbMTQ5OTE3MTQ0OCwxOTMwMTY4MDEwLC0zMj
+E1NjMzNDgsMTczNDQwNDQyOCwxNTY3MDU2MjIwLC0xMjIzNTI5
+MjAzLC02MTQxNjUzNjIsLTE1NTcyMjM4OTYsMTA5Nzk5Nzg4NS
+w0NDE2OTMwNTIsMTg1Njg3MTI4Myw5NjI3MjQ5NjcsLTIwODg3
+NDY2MTIsMTU4ODkzMzA2LC0xMzg1NzgyMTU0LC0xMTkyMjQ1Nz
+Q3LC0yODU4OTEwNTUsODg5NDQ2MTEzLC02MTc4NDcwODIsNDg4
+MzEyNjc3XX0=
 -->
