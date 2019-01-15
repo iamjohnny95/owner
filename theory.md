@@ -6,8 +6,11 @@
 |   cd -  | di chuyển về thư mục cũ   |
 |cd /home | di chuyển về thư mục home |
 
+##**Khám phá filesystem:**
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQwMDk4NDYxLDI5OTEwMjgxMywtMTM1Nz
-Q1NzU5MywtMTQwMDQ3MTU3XX0=
+eyJoaXN0b3J5IjpbLTM5NDgxNDc0NiwyOTkxMDI4MTMsLTEzNT
+c0NTc1OTMsLTE0MDA0NzE1N119
 -->
