@@ -16,12 +16,17 @@
  - Ubuntu LTS: là phiên bản hỗ trợ dài hạn. Ubuntu liên tục tạo ra các phiên bản nâng cấp về bảo mật và cập nhật sửa lỗi. Hết thời gian hỗ trợ, họ khuyên là nên nâng cấp phiên bản, đồng thời ubuntu sẽ dừng support phiên bản cũ. 
  - Cứ sau 6 tháng Ubuntu sẽ tung ra phiên bản mới cho máy chủ và để bàn. Ubuntu được thiết kế với tính năng bảo mật. Người dùng sẽ luôn nhận được cập nhật bảo mật ít nhất 9 tháng.
  - Sau 2 năm thì phiên bảo LTS sẽ được cập nhật.
- -  Chứng chỉ LTS chỉ được áp dụng đối với thành phần thuộc máy chủ. 
+ ***Ưu điểm của Ubuntu***
+ - Thân thiện với người dùng
+ - Miễn phí
+ - Bảo mật cao
+ - Tùy biến dễ dàng 
+ - Môi trường làm việc đa dạng
  
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM1OTgxODMxLC0yODU4OTEwNTUsODg5ND
-Q2MTEzLC02MTc4NDcwODIsNDg4MzEyNjc3LDE5ODc1NzIwNTUs
-Mjk5MTAyODEzLC0xMzU3NDU3NTkzLC0xNDAwNDcxNTddfQ==
+eyJoaXN0b3J5IjpbMjA4NDgxNDM4MSwtMjg1ODkxMDU1LDg4OT
+Q0NjExMywtNjE3ODQ3MDgyLDQ4ODMxMjY3NywxOTg3NTcyMDU1
+LDI5OTEwMjgxMywtMTM1NzQ1NzU5MywtMTQwMDQ3MTU3XX0=
 -->
