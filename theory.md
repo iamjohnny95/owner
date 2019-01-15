@@ -1,21 +1,7 @@
-# Basic Command
-##**Truy cập đường dẫn:**
-|Câu lệnh |kết quả| 
-|:------: |:-----:|
-|   cd    | di chuyển đến thư mục home|
-|   cd .. | di chuyển về thư mục trước|
-|   cd -  | di chuyển về thư mục cũ   |
-|cd /home | di chuyển về thư mục home |
-
-##**Khám phá filesystem:**
-- ls: hiển thị tất cả các thư mục
-- ls -a: hiển thị tất các các thư mục kể cả file ẩn 
-- ls -l: hiển thị tất cả các quyền hạn của tất cả người dùng, nhóm và root
-- pwd: hiển thị vị trí đang đứng 
-
-
-
+#lịch sử hình thành linux 
+ - linux 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg4MzEyNjc3LDE5ODc1NzIwNTUsMjk5MT
-AyODEzLC0xMzU3NDU3NTkzLC0xNDAwNDcxNTddfQ==
+eyJoaXN0b3J5IjpbMjk4MjU1MTU4LDQ4ODMxMjY3NywxOTg3NT
+cyMDU1LDI5OTEwMjgxMywtMTM1NzQ1NzU5MywtMTQwMDQ3MTU3
+XX0=
 -->
