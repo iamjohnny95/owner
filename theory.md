@@ -286,16 +286,19 @@ Bạn cũng có thể dùng  **find <thư mục> -iname <tên file>** để tìm
 - 1./ (root): thư mục gốc, thư mục cha toàn bộ hệ thống
 - 2./ bin: chứa các tệp binary, chứa các lệnh của người dùng và toàn hệ thống
 - 3./ boot: chứa các thư mục và tệp tin trong bootloader
+- 4./dev: chứa các thiết bị ngoại vi, thiết bị đầu cuối gắn vào hệ thống 
+- 5./etc: chứa các câu hình của package, và system
+- 6./home: c
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNzY1NTUwOCwtMTg4MDc3NDMzLDE0OT
-kxNzE0NDgsMTkzMDE2ODAxMCwtMzIxNTYzMzQ4LDE3MzQ0MDQ0
-MjgsMTU2NzA1NjIyMCwtMTIyMzUyOTIwMywtNjE0MTY1MzYyLC
-0xNTU3MjIzODk2LDEwOTc5OTc4ODUsNDQxNjkzMDUyLDE4NTY4
-NzEyODMsOTYyNzI0OTY3LC0yMDg4NzQ2NjEyLDE1ODg5MzMwNi
-wtMTM4NTc4MjE1NCwtMTE5MjI0NTc0NywtMjg1ODkxMDU1LDg4
-OTQ0NjExM119
+eyJoaXN0b3J5IjpbLTEwODMyNDEwNDAsLTE4ODA3NzQzMywxND
+k5MTcxNDQ4LDE5MzAxNjgwMTAsLTMyMTU2MzM0OCwxNzM0NDA0
+NDI4LDE1NjcwNTYyMjAsLTEyMjM1MjkyMDMsLTYxNDE2NTM2Mi
+wtMTU1NzIyMzg5NiwxMDk3OTk3ODg1LDQ0MTY5MzA1MiwxODU2
+ODcxMjgzLDk2MjcyNDk2NywtMjA4ODc0NjYxMiwxNTg4OTMzMD
+YsLTEzODU3ODIxNTQsLTExOTIyNDU3NDcsLTI4NTg5MTA1NSw4
+ODk0NDYxMTNdfQ==
 -->
