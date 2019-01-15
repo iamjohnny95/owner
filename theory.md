@@ -1,7 +1,7 @@
 #lịch sử hình thành linux 
- - linux 
+ - linux là một trong những nền tảng hệ điều hành mã nguồn mở và miễn phí đầu tiên được ra đời, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk4MjU1MTU4LDQ4ODMxMjY3NywxOTg3NT
-cyMDU1LDI5OTEwMjgxMywtMTM1NzQ1NzU5MywtMTQwMDQ3MTU3
-XX0=
+eyJoaXN0b3J5IjpbMTc5ODIzMDM3Miw0ODgzMTI2NzcsMTk4Nz
+U3MjA1NSwyOTkxMDI4MTMsLTEzNTc0NTc1OTMsLTE0MDA0NzE1
+N119
 -->
