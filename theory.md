@@ -112,11 +112,12 @@ Phiên bản thương mại, close source nổi tiếng, thành công nhất, c�
 ### **GNU**
 
 Trong dòng chảy của sự phát triển của Unix, năm 1983 đã diễn ra một sự kiện quan trọng, là tiền đề cho những biến động lớn sau này.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTcyMjM4OTYsMTA5Nzk5Nzg4NSw0ND
-E2OTMwNTIsMTg1Njg3MTI4Myw5NjI3MjQ5NjcsLTIwODg3NDY2
-MTIsMTU4ODkzMzA2LC0xMzg1NzgyMTU0LC0xMTkyMjQ1NzQ3LC
-0yODU4OTEwNTUsODg5NDQ2MTEzLC02MTc4NDcwODIsNDg4MzEy
-Njc3LDE5ODc1NzIwNTUsMjk5MTAyODEzLC0xMzU3NDU3NTkzLC
-0xNDAwNDcxNTddfQ==
+eyJoaXN0b3J5IjpbMTkwMDQwNjYyLC0xNTU3MjIzODk2LDEwOT
+c5OTc4ODUsNDQxNjkzMDUyLDE4NTY4NzEyODMsOTYyNzI0OTY3
+LC0yMDg4NzQ2NjEyLDE1ODg5MzMwNiwtMTM4NTc4MjE1NCwtMT
+E5MjI0NTc0NywtMjg1ODkxMDU1LDg4OTQ0NjExMywtNjE3ODQ3
+MDgyLDQ4ODMxMjY3NywxOTg3NTcyMDU1LDI5OTEwMjgxMywtMT
+M1NzQ1NzU5MywtMTQwMDQ3MTU3XX0=
 -->
