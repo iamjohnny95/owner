@@ -206,24 +206,17 @@ Red Hat sử dụng luật bảo vệ thương hiệu để ngăn việc phần 
 
 **ls** liệt kê nội dung (file và thư mục) trong thư mục hiện hành. Nó cũng tương tự với việc bạn mở một thư mục và xem nội dung trong đó trên giao diện người dùng.
 
-![Học lập trình trực tuyến](https://techmaster.vn/fileman/Uploads/1-ls.jpg "Học lập trình trực tuyến")
 ### 2. mkdir - Make Directory
 
 **mkdir <tên thư mục mới>** tạo một thư mục mới. Nó cũng tương tự với việc bạn chọn new/create directory để tạo một thư mục mới trên giao diện người dùng.
-
-![Học lập trình trực tuyến xin việc làm](https://techmaster.vn/fileman/Uploads/2-mkdir.jpg "Học lập trình trực tuyến xin việc làm")
 
 ### 3. pwd - Print Working Directory
 
 **pwd** in ra đường dẫn đầy đủ đến thư mục hiện hành.
 
-![Học lập trình trực tuyến cấp tốc](https://techmaster.vn/fileman/Uploads/3-pwd.jpg "Học lập trình trực tuyến cấp tốc")
-
 ### 4. cd - Change Directory
 
 **cd <thư mục>** chuyển một thư mục thành thư mục hiện hành cho phiên làm việc hiện tại. Nó cũng tương tự với việc bạn mở một thư mục và thao tác với các file và thư mục bên trong đó trên giao diện người dùng.
-
-![Học lập trình trực tuyến cho trẻ em](https://techmaster.vn/fileman/Uploads/4-cd.jpg "Học lập trình trực tuyến cho trẻ em")
 
 ### 5. rmdir - Remove Directory
 
@@ -285,11 +278,11 @@ Bạn cũng có thể dùng  **find <thư mục> -iname <tên file>** để tìm
 
 ![Học lập trình online cho thanh niên](https://techmaster.vn/fileman/Uploads/13-find.jpg "Học lập trình online cho thanh niên")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NzA1NjIyMCwtMTIyMzUyOTIwMywtNj
-E0MTY1MzYyLC0xNTU3MjIzODk2LDEwOTc5OTc4ODUsNDQxNjkz
-MDUyLDE4NTY4NzEyODMsOTYyNzI0OTY3LC0yMDg4NzQ2NjEyLD
-E1ODg5MzMwNiwtMTM4NTc4MjE1NCwtMTE5MjI0NTc0NywtMjg1
-ODkxMDU1LDg4OTQ0NjExMywtNjE3ODQ3MDgyLDQ4ODMxMjY3Ny
-wxOTg3NTcyMDU1LDI5OTEwMjgxMywtMTM1NzQ1NzU5MywtMTQw
-MDQ3MTU3XX0=
+eyJoaXN0b3J5IjpbMTcyNDk0ODM5NCwxNTY3MDU2MjIwLC0xMj
+IzNTI5MjAzLC02MTQxNjUzNjIsLTE1NTcyMjM4OTYsMTA5Nzk5
+Nzg4NSw0NDE2OTMwNTIsMTg1Njg3MTI4Myw5NjI3MjQ5NjcsLT
+IwODg3NDY2MTIsMTU4ODkzMzA2LC0xMzg1NzgyMTU0LC0xMTky
+MjQ1NzQ3LC0yODU4OTEwNTUsODg5NDQ2MTEzLC02MTc4NDcwOD
+IsNDg4MzEyNjc3LDE5ODc1NzIwNTUsMjk5MTAyODEzLC0xMzU3
+NDU3NTkzXX0=
 -->
