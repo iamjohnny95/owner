@@ -83,11 +83,13 @@ Các điểm trên là điểm khác biệt chính mà bạn nên cân nhắc gi
 ** Bảng so sánh giữa Ubuntu và CentOS: **
 | Ubuntu | CentOS |
 | ------ | -------|
-|Dựa trên Debian
+|Dựa trên Debian | Dựa trên RHEL|
+|Cập nhật thường xuyên | Cập nhật quan trọng|
+|Không hỗ trợ cPanel(có phương pháp thay thế)|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5ODQ2ODgxMCw5NjI3MjQ5NjcsLTIwOD
-g3NDY2MTIsMTU4ODkzMzA2LC0xMzg1NzgyMTU0LC0xMTkyMjQ1
-NzQ3LC0yODU4OTEwNTUsODg5NDQ2MTEzLC02MTc4NDcwODIsND
-g4MzEyNjc3LDE5ODc1NzIwNTUsMjk5MTAyODEzLC0xMzU3NDU3
-NTkzLC0xNDAwNDcxNTddfQ==
+eyJoaXN0b3J5IjpbLTE2Njc5MDExMzgsOTYyNzI0OTY3LC0yMD
+g4NzQ2NjEyLDE1ODg5MzMwNiwtMTM4NTc4MjE1NCwtMTE5MjI0
+NTc0NywtMjg1ODkxMDU1LDg4OTQ0NjExMywtNjE3ODQ3MDgyLD
+Q4ODMxMjY3NywxOTg3NTcyMDU1LDI5OTEwMjgxMywtMTM1NzQ1
+NzU5MywtMTQwMDQ3MTU3XX0=
 -->
